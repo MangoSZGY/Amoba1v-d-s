@@ -1,7 +1,0 @@
-cd "amoba_project"
-git init
-git add .
-git commit -m "Első beadandó - Amőba NxM (Java 21, CLI)"
-git branch -M main
-git remote add origin https://github.com/<MangoSZGY>/amoba-nxm.git
-git push -u origin main
